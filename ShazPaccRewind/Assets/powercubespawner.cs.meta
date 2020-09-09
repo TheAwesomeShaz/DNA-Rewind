@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b131a65e4497f0948a2aee318c2d1844
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bigpcube: {fileID: 3896158044227574541, guid: 684694fe132943640b1688d86fba893b,
+      type: 3}
+  - s: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
